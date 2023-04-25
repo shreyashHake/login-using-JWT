@@ -1,10 +1,10 @@
-package com.jwtapp.jwtapplication;
+package com.vrush.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JwtApplicationTests {
+class SecurityApplicationTests {
 
 	@Test
 	void contextLoads() {

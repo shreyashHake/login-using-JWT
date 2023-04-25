@@ -1,13 +1,13 @@
-package com.jwtapp.jwtapplication;
+package com.vrush.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JwtApplication {
+public class SecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JwtApplication.class, args);
+		SpringApplication.run(SecurityApplication.class, args);
 	}
 
 }
